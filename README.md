@@ -42,4 +42,13 @@ Before we get into the cool stuff however we're going to touch on working with d
 
 ### Hands-On Assignments - Excel
 
-Please Download and open the Excel file attached to this GitHub repository.  It is a free file which 
+Please Download and open the Excel file in this GitHub repository.  This is an Excel document which was procured on 1/19/2025 from the [Maine Center for Workforce Research and Information](https://www.maine.gov/labor/cwri/data/oes/hwid.html)
+
+Your assignment is to re-create the "Pivot Table" pictured below.  This table shows average mean wages by degree attainment for SOC Code "15-" (IT Jobs) in the state of Maine.  If you would like play around with some of the other jobs listed in this data set as well as some of the other datasets on this website!  As mentioned above we will be spending quite a bit of time collecting, organizing, and utilizing a variety of free data sets available from a bunch of different sources this semester!
+
+<img width="656" alt="image" src="https://github.com/user-attachments/assets/7f92a5d9-2c8d-44a1-8ae4-6ef101a544da" />
+
+There are a bunch of resources which demonstrate how to create Pivot Tables in Excel, but [this is a pretty good one](https://youtu.be/PdJzy956wo4?si=1B5Pqu5EQH7IMQEu)!
+
+Once completed please upload a copy of your .xlsx file with its pivot table!
+
