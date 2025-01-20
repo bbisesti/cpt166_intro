@@ -7,8 +7,7 @@ Welcome to CPT 166!  This week we will be completing the following:
 
 - Introducing the concept of Data, Databases, and sql
 - Working with data in one of the most widely-used business formats (Excel)
-- Connecting to your Virtual Machines in our lab environment and installing DBeaver (SQL Client)
-
+- Connecting to your Virtual Machines in our lab environment
 
 ## Introduction
 
